@@ -12,7 +12,7 @@ This project provides an AI-powered chatbot built using **FastAPI** for API inte
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/ollama-chatbot.git
+   git clone [https://github.com/your-username/ollama-chatbot.git](https://github.com/srus1608/AI-Chatbot-using-FastAPI-Gradio/tree/main)
    cd ollama-chatbot
 2.Install dependencies:
 
